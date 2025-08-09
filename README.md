@@ -74,10 +74,14 @@
 
 ---
 
-### 🏆 Achievements & Badges  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YassineBenYedder&theme=onedark" />
-</p>
+### 🌟 Highlights & Notable Work  
+- 🥇 **Hack4Data 2022** – Member of the organizational team at ESEN Android Club.  
+- 🗳 **ISIE 2024** – Contributed to the organization of the Tunisian Presidential Election.  
+- 💼 **3 Professional Internships** – Gained hands-on experience in banking, retail, and public administration.  
+- 🚀 **Built & Deployed** 2 full-scale projects:  
+  - CNSS File Submission Platform *(PFE)*  
+  - E-commerce Website *(Freelance)*
+- 📂 **Freelance Work** – Delivered custom software solutions for clients.  
 
 ---
 
