@@ -85,37 +85,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineBenYedder&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YassineBenYedder/YassineBenYedder/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YassineBenYedder&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YassineBenYedder&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassineBenYedder&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YassineBenYedder/count.svg" />
-</p>
-
----
-
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:benyedderyassin7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
