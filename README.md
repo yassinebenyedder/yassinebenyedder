@@ -26,7 +26,7 @@
 
 ### 📂 Featured Projects  
 
-- 📌 **CNSS File Submission Platform** *(Final Year Project)*  
+- 📌 **CNSS File Submission Platform**  
   *React, Node.js (Express.js), Oracle, Redis, Paperless-ngx, Docker, GitHub, Postman*  
   - Automated file submission and processing for online client requests.  
   - Dynamic form generator similar to Google Forms.  
@@ -34,12 +34,12 @@
   - Integration with Paperless-ngx for secure archiving.  
   - Full traceability system for CNSS agent actions.
 
-- 📌 **E-commerce Website** *(Freelance Project)*  
+- 📌 **E-commerce Website**  
   *Next.js, MongoDB, Uploadthing, JWT Token*  
   - Online store with product browsing, cart, and order placement.  
   - Dynamic category system for flexible product types.
 
-- 📌 **Go Titans – Gym Class Booking Platform** *(End-of-Year Project)*  
+- 📌 **Go Titans – Gym Class Booking Platform**  
   *PHP, MySQL, .NET Framework*  
   - Responsive platform for gym members to register for classes.  
   - Desktop app for trainers and admins to manage sessions.
