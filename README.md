@@ -33,7 +33,7 @@
   - AI-based document recognition in French & Arabic.  
   - Integration with Paperless-ngx for secure archiving.  
   - Full traceability system for CNSS agent actions.
-  - 🔗 <a href="https://www.linkedin.com/posts/yassin-ben-yedder_pfe-cnss-transformationdigitale-activity-7339381890459529216-sYNZ" target="_blank">View Demo on LinkedIn</a>
+  - 🔗 [View Demo on LinkedIn](https://www.linkedin.com/posts/yassin-ben-yedder_pfe-cnss-transformationdigitale-activity-7339381890459529216-sYNZ)
 
 - 📌 **E-commerce Website**  
   *Next.js, MongoDB, Uploadthing, JWT Token*  
