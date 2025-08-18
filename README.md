@@ -39,7 +39,7 @@
   *Next.js, MongoDB, Uploadthing, JWT Token*  
   - Online store with product browsing, cart, and order placement.  
   - Dynamic category system for flexible product types.
-  - 🔗 [View Project Repositor](https://github.com/yassinebenyedder/E-commerce)
+  - 🔗 [View Project Repository](https://github.com/yassinebenyedder/E-commerce)
 
 - 📌 **Go Titans – Gym Class Booking Platform**  
   *PHP, MySQL, .NET Framework*  
