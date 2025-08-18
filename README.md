@@ -39,11 +39,21 @@
   *Next.js, MongoDB, Uploadthing, JWT Token*  
   - Online store with product browsing, cart, and order placement.  
   - Dynamic category system for flexible product types.
+  - 🔗 [View Project Repositor](https://github.com/yassinebenyedder/E-commerce)
 
 - 📌 **Go Titans – Gym Class Booking Platform**  
   *PHP, MySQL, .NET Framework*  
   - Responsive platform for gym members to register for classes.  
   - Desktop app for trainers and admins to manage sessions.
+  - 🔗 [View Post on LinkedIn](https://www.linkedin.com/posts/yassin-ben-yedder_opensource-php-html-activity-7252999148319256577-UBl_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyEutMBfILA5-fMqfRzhQqgAoNSSCasaUA)
+
+- 📌 **Notini – Modern Note-Taking App**  
+  *MERN Stack: MongoDB, Express, React, Node.js, JWT, Custom CSS*  
+  - Create, update, and delete notes with ease.  
+  - Tagging system for organized note management.  
+  - Pin important notes for quick access.  
+  - Responsive design for desktop and mobile.  
+  - 🔗 [View Post on LinkedIn](https://www.linkedin.com/posts/yassin-ben-yedder_mern-opensource-notini-activity-7253766916278833152-PqQ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyEutMBfILA5-fMqfRzhQqgAoNSSCasaUA)
 
 ---
 
